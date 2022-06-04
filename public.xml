@@ -4,7 +4,7 @@
      <title lang="EN">APC repository</title>
    </details>
    <plugins>
-     <plugin name="AlternativePlayCount" version="1.0" target="windows" minTarget="7.3" maxTarget="7.3">
+     <plugin name="AlternativePlayCount" version="1.0" target="windows" minTarget="7.9" maxTarget="*">
        <title lang="FR">Alternative Play Count</title>
        <title lang="FR">Nombre de Lectures Alternatif (APC)</title>
        <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups.</desc>
