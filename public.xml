@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+ <extensions>
+   <details>
+     <title lang="EN">APC repository</title>
+   </details>
+   <plugins>
+     <plugin name="AlternativePlayCount" version="1.0" target="windows" minTarget="7.3" maxTarget="7.3">
+       <title lang="FR">Alternative Play Count</title>
+       <title lang="FR">Nombre de Lectures Alternatif (APC)</title>
+       <desc lang="EN">Provides alternative play counts and skip counts that aim to reflect your true listening history. You set a time after which a song counts as played. Create (scheduled) backups, restore from backups.</desc>
+       <desc lang="FR">Fournit un nombre de lectures et de sauts alternatif qui vise à refléter votre vrai historique de lecture. Vous définissez une durée après laquelle un morceau est considéré comme joué. Créez des sauvegardes (programmées), restaurez depuis des sauvegardes.</desc>
+       <changes lang="EN">English change log</changes>
+       <changes lang="DE">German change log</changes>
+       <creator>AF</creator>
+       <url>https://github.com/AF-1/lms-alternativeplaycount/releases/download/0.3.8/lms-alternativeplaycount-0.3.8.zip</url>
+       <sha>fca35cdfbac5dfcb8cb2225299f411c33be177e5</sha>
+     </plugin>
+   </plugins>
+ </extensions>
